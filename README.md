@@ -1,2 +1,2 @@
-# Curso2
+# Curso
 Segunda prueba
