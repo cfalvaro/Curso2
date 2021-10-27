@@ -1,2 +1,2 @@
 # Curso:Tratamiento de conjuntos de datos y programación estadística con R
-Esto son prueba para la subida en GitHub de un curso de R impartido en IECA
+Para acceder a toda la información te recomendamos que te la descargues (botón verde: CODE -> Download Zip) 
